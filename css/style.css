@@ -33,6 +33,12 @@ a {
   float: left;
   margin-top: 0px;
 }
+
+.logo img {
+    width: 70px;
+    height: 70px;
+    margin-top: 25px;
+}
 .search_icon {
   float: right;
   margin-top: 50px;
